@@ -15,7 +15,7 @@ const info = require("./lib/info.js");
 /////////////////
 const BotName = 'Tsukasa'; 
 const instagram = 'https://instagram.com/tegarilyasa'; 
-const telegram = 'https://t.me/Tegar ilyasa'; 
+const telegram = 'https://t.me/Tegarilyasa'; 
 const kapanbotaktif = 'SESUAI KEMAUAN MASTER ILYAS'; 
 const youtube = 'https://www.youtube.com/c/reuz_id';
 //const grupch1 = 'belum ada grup'; 
