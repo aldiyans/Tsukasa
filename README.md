@@ -30,7 +30,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 | KEADAAN       |               FITUR     |
 | :-----------: | :--------------------------------:  |
 |       ✅       |    PANTUN                         |
-|       ✅       | ANIMEPICT                         |
+|       ✅       | pict loli.                        |
 |       ✅       | STICKER                           |
 |       ✅       | NULIS                             |
 |       ✅       | QUOTES                            |
