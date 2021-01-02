@@ -13,10 +13,10 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'Tsukasa'; 
+const BotName = 'FASTBOOT'; 
 const instagram = 'https://instagram.com/tegarilyasa'; 
 const telegram = 'https://t.me/Tegarilyasa'; 
-const kapanbotaktif = 'SESUAI KEMAUAN MASTER ILYAS'; 
+const kapanbotaktif = 'SESUAI KEMAUAN MASTER ALDI'; 
 const youtube = 'https://www.youtube.com/c/reuz_id';
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
